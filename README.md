@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sang</h1>
 <h3 align="center">A Ruby on Rails developer</h3>
 
-- 📝 I regulary write articles on [sangvo.github.io](sangvo.github.io)
+- 📝 I regulary write articles on [sangvo.github.io](https://sangvo.github.io)
 
 
 <h3 align="left">Languages and Tools:</h3>
