@@ -9,3 +9,5 @@
 ![Ruby](https://shields.io/badge/ruby-red?logo=ruby&style=for-the-badge)
 ![Javascript](https://shields.io/badge/javascript-blue?logo=javascript&style=for-the-badge)
 ![NeoVim](https://shields.io/badge/neovim-%2357A143?logo=neovim&style=for-the-badge&logoColor=white)
+
+![Most language used](https://github-readme-stats.vercel.app/api/top-langs/?username=sangvo)
