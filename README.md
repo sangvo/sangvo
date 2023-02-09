@@ -10,5 +10,5 @@
 ![Javascript](https://shields.io/badge/javascript-blue?logo=javascript&style=for-the-badge)
 ![NeoVim](https://shields.io/badge/neovim-%2357A143?logo=neovim&style=for-the-badge&logoColor=white)
 
-[![Sang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Sang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sangvo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
